@@ -3,11 +3,8 @@
 - 🔭 Apaixonada por códigos
 - 🌱 Estudante de programação
 
-<div align="center">
-  <a href="https://github.com/giselasouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giselasouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselasouza&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+![Gisela GitHub stats](https://github-readme-stats.vercel.app/api?username=giselasouza&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselasouza&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
