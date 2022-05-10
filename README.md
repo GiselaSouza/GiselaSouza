@@ -1,6 +1,6 @@
 ### Olá, eu sou Gisela 👋
 
-- 🔭 Apaixonada por códigos
+- 🔭 Apaixonada por códigos, em transição para a área de desenvolvimento
 - 🌱 Estudante de programação
 
 ![Gisela GitHub stats](https://github-readme-stats.vercel.app/api?username=giselasouza&show_icons=true&theme=radical)
